@@ -26,7 +26,7 @@ The top 10 highest-paying data analyst roles show a wide salary range, from $650
 ### Q2. What skills are required for these top-paying jobs?
 ![skills_toppaying](visuals/skills_toppaying.png)
 
-SQL is the most demanded skill, appearing in 8 out of the top 10 highest-paying data analyst jobs, making it essential for Data Analysts. Following SQL, Python and Tableau are also highly sought after, appearing 7 and 6 times respectively.
+SQL is the most demanded skill, appearing in 8 out of the top 10 highest-paying data analyst jobs, making it essential for data analysts. Following SQL, Python and Tableau are also highly sought after, appearing 7 and 6 times respectively.
 ### Q3. What skills are most in demand for data analysts?
 ![indemandskills](visuals/skillsdemand.png)
 The most in-demand skills are SQL and Excel, highlighting the importance of fundamental skills in data processing and spreadsheet manipulation. Following these are Python, Tableau, and Power BI, indicating a growing demand for proficiency in programming languages and visualization tools. This demonstrates that technical skills, along with the ability to communicate and tell stories with data, are crucial in today's job market.
