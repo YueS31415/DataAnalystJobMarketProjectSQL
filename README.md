@@ -7,7 +7,7 @@ Explore the SQL queries used in this analysis [here](project_queries).
 
 The data comes from Luke Barousse's  [SQL Course](http://lukebarousse.com/sql), offering insights into job titles, salaries, locations, and essential skills.
 
-# Summary of Insights
+# Summary of Analysis
 ### Q1. What are the top-paying data analyst jobs?
 | Job Title                                      | Company Name                                 | Average Annual Salary ($) |
 |------------------------------------------------|----------------------------------------------|---------------------------|
