@@ -46,7 +46,7 @@ The most in-demand skills are SQL and Excel, highlighting the importance of fund
 
 "svn" commands the highest average salary at $400,000, more than double the other salaries, indicating a very high pay in a niche expertise.
 
-Skills related to new and emerging technologies, such as 'solidity' for blockchain, 'mxnet' for deep learning, 'datarobot', and 'golang', are highly valued. Additionally,data management and manipulation tools like "couchbase" and "dplyr" reflect the importance of skill in the data management and analysis domains.
+Skills related to new and emerging technologies, such as "solidity" for blockchain, "mxnet" for deep learning, "datarobot", and "golang", are highly valued. Additionally, data management and manipulation tools like "couchbase" and "dplyr" reflect the importance of skill in the data management and analysis domains.
 
 The consistent high salaries across diverse skills indicate a competitive market for specialized technical skills. Employers are willing to offer substantial compensation for proficiency in both established and emerging technologies.
 
@@ -75,7 +75,7 @@ Overall, the data suggests a mix of specialized and fundamental skills in emergi
 
 3.**Most In-Demand Skills**: SQL, Excel, and Python are the most demanded skills. SQL and Python consistenly appear in top job/skill listings, marking their essential role for job seekers.
 
-4.**Skills with High Salaries**: Specialized skills such as svn and Solidity are associated with the highest average salaries, reflecting a premium on niche expertise. The data highlights the importance of acquiring specialized skills to command higher salaries in the job market. Professionals with expertise in niche or emerging technologies tend to earn significantly higher salaries.
+4.**Skills with High Salaries**: Specialized skills such as SVN and Solidity are associated with the highest average salaries, reflecting a premium on niche expertise. The data highlights the importance of acquiring specialized skills to command higher salaries in the job market. Professionals with expertise in niche or emerging technologies tend to earn more.
 
 5.**Optimal Skills for Job Market Value**: For job seekers with limited experience, SQL is identified as the most valuable skill due to its high demand and competitive pay. Additionally, proficiency in visualization tools such as Tableau and Power BI is advantageous. 
 
