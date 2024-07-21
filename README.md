@@ -24,11 +24,11 @@ The data comes from Luke Barousse's  [SQL Course](http://lukebarousse.com/sql), 
 
 The top 10 highest-paying data analyst roles show a wide salary range, from $650,000 to $184,000, and span diverse industries, including healthcare and technology. The varied job titles reflect different levels of responsibility and seniority.
 ### Q2. What skills are required for these top-paying jobs?
-![skills_toppaying](visuals\skills_toppaying.png)
+![skills_toppaying](visuals/skills_toppaying.png)
 
 SQL is the most demanded skill, appearing in 8 out of the top 10 highest-paying data analyst jobs, making it essential for Data Analysts. Following SQL, Python and Tableau are also highly sought after, appearing 7 and 6 times respectively.
 ### Q3. What skills are most in demand for data analysts?
-![indemandskills](visuals\skillsdemand.png)
+![indemandskills](visuals/skillsdemand.png)
 The most in-demand skills are SQL and Excel, highlighting the importance of fundamental skills in data processing and spreadsheet manipulation. Following these are Python, Tableau, and Power BI, indicating a growing demand for proficiency in programming languages and visualization tools. This demonstrates that technical skills, along with the ability to communicate and tell stories with data, are crucial in today's job market.
 ### Q4. Which skills are associated with high salaries?
 | Skills    | Average Salary ($) |
@@ -51,12 +51,12 @@ Skills related to new and emerging technologies, such as 'solidity' for blockcha
 The consistent high salaries across diverse skills indicate a competitive market for specialized technical skills. Employers are willing to offer substantial compensation for proficiency in both established and emerging technologies.
 
 ### Q5. What are the most optimal skills to learn?
-![topdemandskills](visuals\top15demandedskills.png)
+![topdemandskills](visuals/top15demandedskills.png)
 
 Among the most demanded skills, cloud tools and technologies like AWS and Azure offer the highest pay, at $106K and $105K respectively. Programming languages such as Python and R follow, with significantly higher demand (about five times that of cloud tools) and substantial salaries of $102K and $99K. 
 
 The most demanded skill, SQL, has an average salary of $96K. Fundamental skills like Word and Excel, although highly demanded, have relatively lower salaries among the top 15 most in-demand skills
-![toppayingskills](visuals\top15payingskills.png)
+![toppayingskills](visuals/top15payingskills.png)
 
 "Kafka" commands the highest salary at $129,999, followed by "Pytorch" ($125,226) and "Perl" ($124,686). "Spark" has the highest demand (187) but a lower average salary ($113,002), while "GCP" is also in high demand (78) with an average salary of $113,065.
 
