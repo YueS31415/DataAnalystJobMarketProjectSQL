@@ -1,7 +1,7 @@
 # 2023 US Data Analyst Job Market and Skills Analysis 
 This project examines top-paying jobs, in-demand skills, and the intersection of high demand and high salaries in the data analyst job market.
 # Project Description
-Motivated by the need to better understand the data analyst job market, this project aims to identify top-paid and in-demand skills, making it easier for others to prepare for optimal job opportunities.
+Motivated by the need to better understand the data analyst job market, this project aims to identify top-paid and in-demand skills, making it easier for job seekers to prepare for optimal job opportunities.
 
 Explore the SQL queries used in this analysis [here](project_queries).
 
