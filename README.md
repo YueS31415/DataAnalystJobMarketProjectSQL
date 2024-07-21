@@ -13,7 +13,7 @@ The data comes from Luke Barousse's  [SQL Course](http://lukebarousse.com/sql), 
 |------------------------------------------------|----------------------------------------------|---------------------------|
 | Data Analyst                                   | Mantys                                       | 650,000                   |
 | Director of Analytics                          | Meta                                         | 336,500                   |
-| Associate Director- Data Insights              | AT&T                                         | 255,829.5                 |
+| Associate Director- Data Insights              | AT&T                                         | 255,829                   |
 | Data Analyst, Marketing                        | Pinterest Job Advertisements                 | 232,423                   |
 | Data Analyst (Hybrid/Remote)                   | Uclahealthcareers                            | 217,000                   |
 | Principal Data Analyst (Remote)                | SmartAsset                                   | 205,000                   |
